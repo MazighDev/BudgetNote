@@ -1,0 +1,29 @@
+#avatar{
+    text-align: center;
+}
+input[type=email],input[type=password]{
+    border: none;
+    background-color: transparent;
+    width: 92%;
+}
+.dv{
+    border: solid 1px silver;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 50px;
+}
+button{
+    width: 100%;
+    border-radius: 10px;
+    border: solid 1px silver;
+    box-shadow: 1px 1px 3px black;
+    background-color: #9a1213;
+    color: white;
+    padding: 5px;
+}
+#eyeslash{
+    display: none;
+}
+i{
+    color: black;
+}
